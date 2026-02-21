@@ -1,5 +1,11 @@
 # ✧ Be True Studio ✧
 
+<p align="left">
+  <img alt="React" src="https://img.shields.io/badge/React-19-20232A?logo=react" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-7-646CFF?logo=vite" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss" />
+</p>
+
 Site institucional para estúdio de make e spa, com foco em identidade visual, experiência do usuário e fluxo de agendamento.
 
 ## Páginas »
